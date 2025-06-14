@@ -1,6 +1,6 @@
-using System.Diagnostics;
 using Fiap.Web.WattsOff.Models;
 using Microsoft.AspNetCore.Mvc;
+using System.Diagnostics;
 
 namespace Fiap.Web.WattsOff.Controllers
 {
